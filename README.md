@@ -17,3 +17,7 @@ This repository aims to explain the basics of collaborative prompting with LLMs
 [Module 7](https://github.com/Jewelzufo/Intro-Collaborative-Prompting/blob/main/Module7.md)
 ## Module 8
 [Module 8](https://github.com/Jewelzufo/Intro-Collaborative-Prompting/blob/main/Module8.md)
+
+
+# Prompt Templates
+[Free Prompts](https://github.com/Jewelzufo/Free-Prompts)
