@@ -1,5 +1,7 @@
 **Module 7: Ethical Considerations in Prompt Engineering**
 
+![Image](https://github.com/Jewelzufo/Intro-Collaborative-Prompting/blob/main/Module%207.png?raw=true)
+
 **Navigating the Ethical Landscape of AI Interactions**
 
 In this module, we will explore the ethical dimensions of prompt engineering, ensuring that AI interactions are responsible, fair, and respectful.
