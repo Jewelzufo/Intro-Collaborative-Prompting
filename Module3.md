@@ -1,5 +1,7 @@
 # Module 3: Crafting Effective Prompts
 
+![Image](https://github.com/Jewelzufo/Intro-Collaborative-Prompting/blob/main/Module%203.png?raw=true)
+
 **The Art of Clear and Impactful Communication with AI**
 
 In this module, we will focus on the practical aspects of creating prompts that yield the best results from AI models.
