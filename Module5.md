@@ -1,5 +1,7 @@
 **Module 5: Evaluating and Refining Prompts**
 
+![Image](https://github.com/Jewelzufo/Intro-Collaborative-Prompting/blob/main/Module%205.png?raw=true)
+
 **Optimizing Prompt Performance through Analysis and Feedback**
 
 In this module, we will explore methods to assess the effectiveness of prompts and implement improvements based on feedback and common best practices.
