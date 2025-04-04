@@ -1,4 +1,4 @@
-**Module 3: Crafting Effective Prompts**
+# Module 3: Crafting Effective Prompts
 
 **The Art of Clear and Impactful Communication with AI**
 
