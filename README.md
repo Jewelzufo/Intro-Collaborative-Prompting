@@ -1,5 +1,5 @@
 # Intro-Collaborative-Prompting
-This repository aims to explain the basics of collaborative prompting with LLMs 
+This repository aims to explain the basics of collaborative prompting with LLMs in a collaborative manner, to enhance the potential of an LLM's output.
 
 ![ReactNativeBlobUtilTmp](https://github.com/Jewelzufo/Intro-Collaborative-Prompting/raw/main/ReactNativeBlobUtilTmp_vfe8zq4lfqmtub4k01qx8d.png)
 
