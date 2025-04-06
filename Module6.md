@@ -1,4 +1,4 @@
-**Module 6: Real-World Applications of Collaborative Prompt Engineering**
+# Module 6: Real-World Applications of Collaborative Prompt Engineering
 
 **Bringing Prompt Engineering to Life Across Industries**
 
